@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: #E61C23;
+    font-family: sans-serif;
+}
+h1 {
+    border: solid black 1px;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 7px;
+    border-radius: 4px;
+    margin: 5px;
+}
+
+.head{
+    display:inline-block ;
+    color: white;
+    font-size: large;
+    margin-left: 29%;
+    border-bottom: solid white 3px;
+    padding: 0 90px;
+    font-weight: bolder;
+   
+}
+ img{
+    height: 300px;
+    width: 250px;
+    border: solid white 2px;
+}
+
+.images{
+    margin: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+}
